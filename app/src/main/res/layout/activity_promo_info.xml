@@ -1,0 +1,120 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="match_parent"
+    tools:context="com.ipn.hayoferta.PromoInfo">
+
+    <com.nirhart.parallaxscroll.views.ParallaxScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:parallax_factor="1.9">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/imageLogo"
+            android:scaleType="centerCrop"
+            android:layout_width="match_parent"
+            android:layout_height="350dp" />
+
+        <FrameLayout
+            android:id="@+id/baseDescription"
+            android:layout_marginTop="350dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/primaryColor">
+
+            <TextView
+                android:id="@+id/marCard"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:layout_marginStart="90dp"
+                android:layout_marginEnd="16dp"
+                android:layout_marginBottom="40dp"
+                android:textColor="@android:color/white"
+                android:textStyle="bold"
+                android:textSize="22sp"
+                android:text="Prueba"/>
+
+        </FrameLayout>
+
+        <ImageView
+            android:src="@drawable/ic_offer"
+            android:layout_alignTop="@+id/txtDesc"
+            android:layout_marginStart="25dp"
+            android:layout_width="30dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:id="@+id/txtDesc"
+            android:textSize="16sp"
+            android:textColor="@color/abc_primary_text_material_light"
+            android:layout_marginTop="30dp"
+            android:layout_marginStart="90dp"
+            android:layout_marginEnd="25dp"
+            android:layout_below="@id/baseDescription"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Descripcion"/>
+        <!-- Part 2 -->
+        <ImageView
+            android:src="@drawable/ic_location"
+            android:layout_alignTop="@+id/txtLocation"
+            android:layout_marginStart="25dp"
+            android:layout_width="30dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:id="@+id/txtLocation"
+            android:textSize="16sp"
+            android:textColor="@color/abc_primary_text_material_light"
+            android:layout_alignStart="@+id/txtDesc"
+            android:layout_marginTop="40dp"
+            android:layout_below="@+id/txtDesc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Localización"/>
+        <ImageView
+            android:src="@drawable/ic_date"
+            android:layout_alignTop="@+id/txtInfo"
+            android:layout_marginStart="25dp"
+            android:layout_width="30dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:id="@+id/txtInfo"
+            android:textSize="16sp"
+            android:textColor="@color/abc_primary_text_material_light"
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="40dp"
+            android:layout_below="@+id/txtLocation"
+            android:layout_alignStart="@+id/txtDesc"
+            android:text="Información"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fab_share"
+            android:src="@drawable/ic_directions"
+            app:elevation="6dp"
+            app:borderWidth="0dp"
+            app:pressedTranslationZ="10dp"
+            android:layout_marginEnd="16dp"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="325dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </RelativeLayout>
+
+    </com.nirhart.parallaxscroll.views.ParallaxScrollView>
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:minHeight="@dimen/abc_action_bar_default_height_material"
+        android:background="@drawable/gradient"
+        android:layout_width="match_parent"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>

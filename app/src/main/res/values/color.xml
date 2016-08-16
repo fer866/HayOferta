@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#F44336</color>
+    <color name="primaryColorDark">#B40431</color>
+    <color name="navigationBarColor">#F44336</color>
+    <color name="photo_tint">#44101010</color>
+    <color name="alpha">#0000</color>
+    <color name="red">@android:color/holo_red_dark</color>
+    <color name="blue">#2E2EFE</color>
+    <color name="green">@android:color/holo_green_light</color>
+    <color name="frameColor">#64000000</color>
+    <color name="black">@android:color/black</color>
+</resources>

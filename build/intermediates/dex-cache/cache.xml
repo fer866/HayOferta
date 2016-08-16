@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\classes-2578b308db6838c9678596dd4d54540e4390f377.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\libs\Parse-1.9.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1b065010f3c9d441ede9078aca8eabcd1c81e647">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\Parse-1.9.1-bf26c1da31ed5226758e14064c94575989717d16.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\classes-74905fd4856f42a71a4d78e570c7e3a6ba5b5469.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\classes-364cbe4d0d9a425605aaf4cba79b7ac97d3ce56b.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\exploded-aar\com.github.nirhart\parallaxscroll\1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2574796fab3c6145ca6170821badd305f5e03669">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\classes-c70af96bc81a112fe7f50654d746682022052958.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\classes-5ba656fa6fedce9cc1423d91fc74cbdd4ffe13c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-bf1a62c582854de919158944c636a511b778787a.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\exploded-aar\com.android.support\palette-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="060b30a619b8d3ba053e1d7dc08b3fdf0dd81530">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\classes-7fc5a810c68932ec2ba941288fc0165e7c0dc265.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.2.2\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="803c4c913beac8f7980d680c725a40835d1d7c77">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\classes-315fbd15448798a64645e085614428e957b3a0a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\exploded-aar\jp.wasabeef\recyclerview-animators\1.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="55b967d31b15d92052a5ea2e407378b72d4764a7">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\classes-a90af87fc56462d3ff72559dbe1084cb92acee3c.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\classes-798f8b023cda95be1772244e8858bf925d684f1b.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\libs\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-2c714be8669b2de6eb40a9c895a8e81af7d3c272.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-f7193f541b4fa31fd5768914c8d97713e121d259.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\classes-f2487b9a88a8febc386593125eccf1f46f281878.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\classes-f4321658f777ac6b85739d488cec9258874d8ba8.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\classes-74a44c5896748fc9f52c793d3de743bad88358e2.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\classes-403963dec82322efd392a3bcd2bf6379b8010f49.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\classes-bae5e2cdfa75c3308e3de4acdb09c178b4af2b4b.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\classes-df49d58cd8344ef1ac4eb9281a7689f6f70137f4.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.2.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="803c4c913beac8f7980d680c725a40835d1d7c77">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\classes-315fbd15448798a64645e085614428e957b3a0a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\classes-38679f25ec04ae962b27be68bd493fc19bbcd82f.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\classes-1b48aef504696818ed08cf0e0ad26053aaa32845.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\classes-8b0279710873d2df7dfda15787c1513421d6102a.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-a5dedf195da1a7578d50ceade1f8b35ae871c8f2.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\classes-90bf67e7655d932589abb6488054d85417f04e1e.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\classes-0fa5c064e8dd5c3a3216197d6aee7a48a479f71b.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\exploded-aar\com.github.nirhart\parallaxscroll\1.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2574796fab3c6145ca6170821badd305f5e03669">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\classes-c70af96bc81a112fe7f50654d746682022052958.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\classes-497e94ed8cac2b8a4d2175f56bf71212c4e7ce32.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\classes-10ef8909be87a6f1566b2d2f15406fcfb2c50f18.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\classes-71f220956d429567933186da9689eddd65fec925.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\libs\Parse-1.9.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1b065010f3c9d441ede9078aca8eabcd1c81e647">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\Parse-1.9.1-bf26c1da31ed5226758e14064c94575989717d16.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\exploded-aar\jp.wasabeef\recyclerview-animators\1.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="55b967d31b15d92052a5ea2e407378b72d4764a7">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\classes-a90af87fc56462d3ff72559dbe1084cb92acee3c.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-3cb1b96990c957b8dee15c56b3ad3a8dc280f5f3.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\classes-faa4b1018c552bc2237a1f29e47c5ea7b973c58e.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\classes-33ebc38e508a553d8a14dbbb3a700e0604bf9e99.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\classes-b23a3c8c5e80787d6783112e82e2c08a21be78e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\classes-3ac981fa81f8a0805bf23b730a9b62c1900d7b0f.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\classes-868cfb0bbba9d127b735ef82fac5fad2b8079d33.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\classes-f275874ac2e40ee1ad168f0176e457a7db069fc6.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-f7193f541b4fa31fd5768914c8d97713e121d259.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\libs\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-2c714be8669b2de6eb40a9c895a8e81af7d3c272.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\Users\ErikFernando\Documents\AndroidStudioProjects\HayOferta\app\build\intermediates\pre-dexed\debug\classes-e5e1ad818cd3a4ee0a29637b590ead69b931767a.jar" />
+    </item>
+
+</items>
